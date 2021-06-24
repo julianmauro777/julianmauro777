@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @julianmauro777
 - 👀 I’m interested in planes, programming, music, cooking, traveling
-- 🌱 I’m currently studying to be programmer and fullstack developer
+- 🌱 Currently studying for programming technician
 - 💞️ I’m looking to collaborate on some projects :P
 - 📫 How to reach me: maurojulian@gmail.com
 
