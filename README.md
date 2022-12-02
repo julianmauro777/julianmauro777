@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @julianmauro777
-- 👀 I’m interested in planes, programming, developing, music, cooking, traveling
+- 👀 I’m interested in planes, software development, music, cooking, traveling
 - 🌱 Currently studying for developer
 - 📫 How to reach me: maurojulian@gmail.com
 <!---
